@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070333618102",
+    "project_id": "todochiapp-853b0",
+    "storage_bucket": "todochiapp-853b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070333618102:android:2b10113833057609c98317",
+        "android_client_info": {
+          "package_name": "com.example.todochiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070333618102-suere2a9t034kthv3cdvug41nbeai4g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todochiapp",
+            "certificate_hash": "f6434fe82b843065d772369a472432cbb6779be2"
+          }
+        },
+        {
+          "client_id": "1070333618102-4v4h5du26rj0i9vdv3f90ukidgkkc7ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnvum9MvWsU9u2GWMPvlpPJo_1si5CaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070333618102-4v4h5du26rj0i9vdv3f90ukidgkkc7ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

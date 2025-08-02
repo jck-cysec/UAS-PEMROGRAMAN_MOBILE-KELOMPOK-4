@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E53935</color>      <!-- Prioritas Tinggi -->
+    <color name="orange">#FB8C00</color>   <!-- Prioritas Sedang -->
+    <color name="green">#43A047</color>    <!-- Prioritas Rendah -->
+    <color name="highlight_yellow">#FFF59D</color>  <!-- Untuk highlight tanggal -->
+    <color name="bgLight">#F7F9FC</color>
+    <color name="gray">#D5D8DC</color>
+    <color name="teal_700">#00796B</color>
+    <color name="greenDone">#D4EDDA</color>
+    <color name="blueProgress">#E0F0FF</color>
+    <color name="successGreen">#28A745</color>
+    <color name="dangerRed">#E74C3C</color>
+    <color name="primary">#2EC4B6</color> <!-- Warna teal utama -->
+    <color name="primaryDark">#18968C</color> <!-- Warna teal gelap -->
+</resources>
